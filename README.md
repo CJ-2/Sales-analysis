@@ -1,9 +1,10 @@
 # Sales-analysis
 
-12 months sales analysis I have answered some questions.
+12-Month Sales Analysis I have answered some questions.
 
-first I Merged the 12 months of sales data into a single CSV file.
-Second cleaning the dataset.
+First I combined 12 months of sales data into a single CSV file.
+
+Second cleaning of the data set.
 
 # questions
 
